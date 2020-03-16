@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter",
+    "editor.formatOnPaste": true,
+    "html.format.enable": false,
+    "files.associations": {
+    "*.js": "javascriptreact"
+},
+"files.autoSave": "onFocusChange",
+}
